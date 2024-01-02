@@ -1,2 +1,6 @@
-# Year-end-summary
-daniuge233每年的年终总结图
+# Year-end-summary<br/>daniuge233的年终总结
+这里会放daniuge233每年的年终总结图。<br/>
+不知道这种东西能不能往GitHub上放，但奈何实在找不到更合适的平台了......
+***
+### 更新记录
+- 2024-1-2 更新2023年年终总结。
